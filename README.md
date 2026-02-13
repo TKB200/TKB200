@@ -3,7 +3,9 @@
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br>
-
+<br>
+<img src="https://share.google/257U3JIg16BTa2VR3.gif" width="500">
+<br>
 
 - 🔭 I’m currently working as a Full Stack Developer
 - 🌱 I’m currently learning Machne Learning
@@ -13,9 +15,7 @@
 
 
 
-<br>
-<img src="https://share.google/257U3JIg16BTa2VR3.gif" width="500">
-<br>
+
 
 
 
