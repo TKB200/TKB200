@@ -14,9 +14,8 @@
 
 
 <br>
-<img src="https://share.google/257U3JIg16BTa2VR3.gif" width="500">
+<img src="https://share.google/257U3JIg16BTa2VR3" width="500">
 <br>
-- 
 
 
 
