@@ -1,15 +1,7 @@
 ## Hi there I'am Shirley Bhanuka Chandrasena👋
 
-coolstuff
-<p align="center">
-  <img src="coolstuff.gif" alt="Project Banner" width="100%">
-</p>
 
-<h1 align="center">🚀 Your Project Name</h1>
-
-<p align="center">
-  Short professional description of your project.
-</p>
+![Project Banner](coolstuff.gif)
 
 
 - 🔭 I’m currently working as a Full Stack Developer
