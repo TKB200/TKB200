@@ -11,6 +11,26 @@
 I am a dedicated Full Stack Developer with strong experience in designing and developing dynamic web applications.
 <br>I enjoy solving real-world problems through clean, efficient, and maintainable code.
 <br>
+<h6>Frontend</h6>
+<ul>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>JavaScript</li>
+<li>Backend</li>
+<li>PHP</li>
+<li>Node.js</li>
+<li>Database</li>
+<li>MySQL</li>
+<li>SQL</li>
+</ul>
+
+Tools & Platforms
+Git & GitHub
+VS Code
+XAMPP
+Composer
+cPanel Hosting
+
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br>
