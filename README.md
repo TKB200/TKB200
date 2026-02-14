@@ -24,12 +24,14 @@ I am a dedicated Full Stack Developer with strong experience in designing and de
 <li>SQL</li>
 </ul>
 
-Tools & Platforms
-Git & GitHub
-VS Code
-XAMPP
-Composer
-cPanel Hosting
+<li>Tools & Platforms</li>
+<ul>
+<li>Git & GitHub</li>
+<li>VS Code</li>
+<li>XAMPP</li>
+<li>Composer</li>
+<li>cPanel Hosting</li>
+</ul>
 
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
