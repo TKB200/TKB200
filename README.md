@@ -9,6 +9,8 @@
 - Portfolio - https://tkb200.github.io/Bhanuka-Chandrasena.portfolio/
 - Reddit    - https://www.reddit.com/user/General_Ebb_6817/
 
+- <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="120" /> Contact = bkgr2001@gmail.com  
+
 
 
 
