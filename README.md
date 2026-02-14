@@ -1,10 +1,8 @@
-<div class="scrolling-text-container">
-  <div class="scrolling-text">
-    Your moving text goes here!
-  </div>
-</div>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <br>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+
+<br>
+<center><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500"></center>center>
 <br><br>
 
 ## Hi there I'am Shirley Bhanuka Chandrasena👋
@@ -51,9 +49,7 @@
 <br>
 
 Let me Know Abou Coding
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<br><br>
 
 
 
