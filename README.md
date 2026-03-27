@@ -7,7 +7,9 @@
 
 <h1>Hi there I'am Shirley Bhanuka Chandrasena👋</h1>
 <br>
+<br>
 🧑‍💻 About Me
+
 I am a dedicated Full Stack Developer with strong experience in designing and developing dynamic web applications.
 <br>I enjoy solving real-world problems through clean, efficient, and maintainable code.
 <br>
